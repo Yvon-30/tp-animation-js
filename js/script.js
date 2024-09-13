@@ -67,9 +67,9 @@ document.addEventListener('keydown', function() {
     anime({
         targets: '#box',
         keyframes: [
-            {translateY: -100},
+            {translateY: -250},
             {translateX: 1000},
-            {translateY: 100},
+            {translateY: 250},
             {translateX: 0},
             {translateY: 0}
           ],
